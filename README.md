@@ -4,58 +4,58 @@
 	👨🏽‍💻 Linguagens & Tecnologias:
 </h2>
 <br>
-<code>
+<span>
 	<img height="30" alt="HTML" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="CSS" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="SASS" title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="Java" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="Spring Boot" title="Spring Boot" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="C#" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt=".Net Core" title=".Net Core" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="Terminal" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</code>
+</span>
 <!--
-<code>
+<span>
 	<img height="30" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="React.js" title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="GraphQL" title="GraphQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="Firebase" title="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-</code>
+</span>
 -->
 
 <br>
@@ -64,12 +64,12 @@
 	💼 Ferramentas:
 </h2>
 <br>
-<code>
+<span>
 	<img height="30" alt="VS Code" title="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-</code>
-<code>
+</span>
+<span>
 	<img height="30" alt="Figma" title="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</code>
+</span>
 
 <br>
 <br>
